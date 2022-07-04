@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YBS95150054</string>
+    <string name="kayseri_hakkinda">About Kayseri</string>
+    <string name="hava_durumu">Weather Forecast</string>
+    <string name="hava_durumu_url">https://www.mgm.gov.tr/sunum/tahmin-show-2-en.aspx?m=KAYSERI&amp;basla=1&amp;bitir=5&amp;rC=152538&amp;rZ=fff</string>
+    <string name="galeri">Gallery</string>
+    <string name="ilceler">Districts</string>
+    <string name="okul_numarasi">School Number</string>
+    <string name="isim">Name</string>
+    <string name="sehir">City</string>
+</resources>

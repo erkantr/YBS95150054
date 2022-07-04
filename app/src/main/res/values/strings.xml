@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YBS95150054</string>
+    <string name="kayseri_hakkinda">Kayseri Hakkında</string>
+    <string name="hava_durumu">Hava Durumu</string>
+    <string name="hava_durumu_url">https://www.mgm.gov.tr/sunum/tahmin-show-2.aspx?m=KAYSERI&amp;basla=1&amp;bitir=5&amp;rC=152538&amp;rZ=fff</string>
+    <string name="galeri">Galeri</string>
+    <string name="ilceler">İlçeler</string>
+    <string name="numara" translatable="false">95150054</string>
+    <string name="kayseri" translatable="false">Kayseri</string>
+    <string name="okul_numarasi">Okul Numarası</string>
+    <string name="erkan" translatable="false">Erkan Tanrıöver</string>
+    <string name="isim">İsim</string>
+    <string name="sehir">Şehir</string>
+</resources>
